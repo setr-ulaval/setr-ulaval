@@ -1,8 +1,8 @@
-[doc]: https://setr-ulaval.github.io/img/img/icon-doc.png
-[slides]: https://setr-ulaval.github.io/img/img/icon-slides.png
-[video]: https://setr-ulaval.github.io/img/img/icon-video.png
+[doc]: https://setr-ulaval.github.io/img/icon-doc.png
+[slides]: https://setr-ulaval.github.io/img/icon-slides.png
+[video]: https://setr-ulaval.github.io/img/icon-video.png
 
-# Systèmes embarqués temps réel - GIF-3004#
+# Systèmes embarqués temps réel - GIF-3004 #
 
 *Synopsis* : Ce cours porte sur l'analyse et la conception de systèmes embarqués avec systèmes d'exploitation standards et temps réel. Il présente le rôle des systèmes d'exploitation dans les systèmes embarqués pour la gestion de l'exécution des programmes, l'encapsulation du matériel, et l'offre de primitives et de services logiciels. Le cours porte également sur les notions conceptuelles et pratiques de systèmes temps réel. Les notions conceptuelles sont mises en pratiques, par le développement d'applications logicielles pour systèmes embarqués avec systèmes d'exploitation. Les travaux sont réalisés en langage de programmation C sur une plateforme matérielle ARM et des systèmes d'exploitation ouverts. 
 
