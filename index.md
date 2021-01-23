@@ -15,9 +15,9 @@ title: "Systèmes embarqués temps réel - GIF-3004"
 ## Chronologie et présentations ##
 
 * Semaine 1 (22 janvier 2021)
-  *  Présentation du cours ([présentation <i class="fas fa-chalkboard-teacher"></i>](https://drive.google.com/file/d/17s7SerQ8xX9boovthHV6gMkBpK3fNQlT/view?usp=sharing))
-  *  Introduction aux systèmes embarquées temps réel] ([présentation <i class="fas fa-chalkboard-teacher"></i>](https://drive.google.com/file/d/1JX92kF9rr1jN_DMrRtz09C8dV0mX0fEk/view?usp=sharing), [vidéos <i class="fab fa-youtube"></i>](https://www.youtube.com/playlist?list=PL3BpMnXQbjKeCx6arOFl3hCfR_T7ZQOam))
-  * <i class="fas fa-hammer"></i> Atelier 1 : Développement sur RPi ([présentation <i class="fas fa-chalkboard-teacher"></i>](https://drive.google.com/file/d/1Mc6Y1LH1gBvIsP4-PFuartI-b5Bpcv0A/view?usp=sharing))
+  *  Présentation du cours ([présentation <i class="fas fa-chalkboard"></i>](https://drive.google.com/file/d/17s7SerQ8xX9boovthHV6gMkBpK3fNQlT/view?usp=sharing))
+  *  Introduction aux systèmes embarquées temps réel] ([présentation <i class="fas fa-chalkboard"></i>](https://drive.google.com/file/d/1JX92kF9rr1jN_DMrRtz09C8dV0mX0fEk/view?usp=sharing), [vidéos <i class="fab fa-youtube"></i>](https://www.youtube.com/playlist?list=PL3BpMnXQbjKeCx6arOFl3hCfR_T7ZQOam))
+  * <i class="fas fa-hammer"></i> Atelier 1 : Développement sur RPi ([présentation <i class="fas fa-chalkboard"></i>](https://drive.google.com/file/d/1Mc6Y1LH1gBvIsP4-PFuartI-b5Bpcv0A/view?usp=sharing))
   * <i class="fas fa-hammer"></i> [Énoncé du laboratoire 1](https://setr-ulaval.github.io/labo1-h21/)
 
 * Semaine 2 (29 janvier 2021)
