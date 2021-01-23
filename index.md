@@ -15,9 +15,9 @@ title: "Systèmes embarqués temps réel - GIF-3004"
 ## Chronologie et présentations ##
 
 * Semaine 1 (22 janvier 2021)
-  * (Présentation) Introduction aux systèmes embarquées temps réel
-  * (Atelier) Présentation du cours
-  * [Énoncé du laboratoire 1](https://setr-ulaval.github.io/labo1-h21/)
+  * <i class="fas fa-chalkboard-teacher"></i> Introduction aux systèmes embarquées temps réel
+  * <i class="fas fa-hammer"></i> Présentation du cours
+  *  [Énoncé du laboratoire 1](https://setr-ulaval.github.io/labo1-h21/)
 
 * Semaine 2 (29 janvier 2021)
   * (Présentation) Système d'exploitation et programmation concourante
