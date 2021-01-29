@@ -1,0 +1,10 @@
+fichier.cpp
+file100K
+file100Mo
+file10K
+file10Mo
+file1Mo
+index.txt
+logo.png
+md5sums.txt
+photo.jpg 
