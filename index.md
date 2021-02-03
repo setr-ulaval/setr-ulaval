@@ -21,13 +21,13 @@ title: "Systèmes embarqués temps réel - GIF-3004"
   * <i class="fas fa-hammer"></i> [Énoncé du laboratoire 1](https://setr-ulaval.github.io/labo1-h21/)
 
 * Semaine 2 (29 janvier 2021)
-  * Système d'exploitation et programmation concourante
-  * <i class="fas fa-hammer"></i> UNIX et ligne de commande
+  * Système d'exploitation et programmation concourante ([présentation](https://drive.google.com/file/d/1perreumqVGZzoKt42M4kLPvQWwxdiPSt/view?usp=sharing) <i class="fas fa-chalkboard"></i>, [vidéos](https://www.youtube.com/playlist?list=PL3BpMnXQbjKcC1I1IU04HBUuFjW_MYRyF) <i class="fab fa-youtube"></i>)
+  * <i class="fas fa-hammer"></i> UNIX et ligne de commande ([présentation](https://drive.google.com/file/d/1J7-38rUmZJUa8rx4NJRnvgFF6nI3uyVI/view?usp=sharing) <i class="fas fa-chalkboard"></i>)
   * <i class="fas fa-hammer"></i> Évaluation du laboratoire 1
 
 * Semaine 3 (5 février 2021)
-  * <i class="fas fa-hammer"></i> Labo 2 : systèmes de fichier
-  * <i class="fas fa-hammer"></i> Énoncé du laboratoire 2
+  * <i class="fas fa-hammer"></i> Labo 2 : systèmes de fichier ([présentation](https://drive.google.com/file/d/1p9P8RqUbPPNtei7BJ2smDNVwk7EJgt16/view?usp=sharing) <i class="fas fa-chalkboard"></i>)
+  * <i class="fas fa-hammer"></i> [Énoncé du laboratoire 2](https://setr-ulaval.github.io/labo2-h21/)
   * <i class="fas fa-hammer"></i> Évaluation du laboratoire 1
 
 * Semaine 4 (12 février 2021)
