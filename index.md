@@ -31,7 +31,7 @@ title: "Systèmes embarqués temps réel - GIF-3004"
   * <i class="fas fa-hammer"></i> Évaluation du laboratoire 1
 
 * Semaine 4 (12 février 2021)
-  * Programmes temps réel ([présentation](https://drive.google.com/file/d/1_iyVc25Dx8HtdFDOf6zLKyBlG3bzucSo/view?usp=sharing) <i class="fas fa-chalkboard"></i>, [vidéos]() <i class="fab fa-youtube"></i>)
+  * Programmes temps réel ([présentation](https://drive.google.com/file/d/1_iyVc25Dx8HtdFDOf6zLKyBlG3bzucSo/view?usp=sharing) <i class="fas fa-chalkboard"></i>, [vidéos](https://www.youtube.com/playlist?list=PL3BpMnXQbjKfruIcxLivRI22wOyKhCfkv) <i class="fab fa-youtube"></i>)
   * <i class="fas fa-hammer"></i> Programmation système en C ([présentation](https://drive.google.com/file/d/1rb0tG-IPIk89cs5ddGhs81q3aKRzwatD/view?usp=sharing) <i class="fas fa-chalkboard"></i>)
 
 * Semaine 5 (19 février 2021)
