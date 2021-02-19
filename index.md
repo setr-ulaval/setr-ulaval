@@ -35,7 +35,7 @@ title: "Systèmes embarqués temps réel - GIF-3004"
   * <i class="fas fa-hammer"></i> Programmation système en C ([présentation](https://drive.google.com/file/d/1rb0tG-IPIk89cs5ddGhs81q3aKRzwatD/view?usp=sharing) <i class="fas fa-chalkboard"></i>)
 
 * Semaine 5 (19 février 2021)
-  * Entrées/sorties et gestion de la mémoire ([présentation](https://drive.google.com/file/d/1x05jsBvIqy4OGS3CE_8xmJvdsxL5mC2u/view?usp=sharing) <i class="fas fa-chalkboard"></i>, [vidéos]() <i class="fab fa-youtube"></i>)
+  * Entrées/sorties et gestion de la mémoire ([présentation](https://drive.google.com/file/d/1x05jsBvIqy4OGS3CE_8xmJvdsxL5mC2u/view?usp=sharing) <i class="fas fa-chalkboard"></i>, [vidéos](https://www.youtube.com/playlist?list=PL3BpMnXQbjKcf1657OwF1JS-1EnAasVZm) <i class="fab fa-youtube"></i>)
   * <i class="fas fa-hammer"></i> Labo 3 : multiplexeur de vidéos temps réel ([présentation](https://drive.google.com/file/d/14iwFJ2RnkOzzk7rY-gP9wK7wcpDCVzHu/view?usp=sharing) <i class="fas fa-chalkboard"></i>)
   * <i class="fas fa-hammer"></i> [Énoncé du laboratoire 3](https://setr-ulaval.github.io/labo3-h21/)
   * <i class="fas fa-hammer"></i> Évaluation du laboratoire 2
