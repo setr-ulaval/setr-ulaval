@@ -41,8 +41,8 @@ title: "Systèmes embarqués temps réel - GIF-3004"
   * <i class="fas fa-hammer"></i> Évaluation du laboratoire 2
 
 * Semaine 6 (26 février 2021)
-  * Noyau Linux
-  * <i class="fas fa-hammer"></i> Labo 3 : implémentation et détails techniques
+  * Noyau Linux ([présentation](https://drive.google.com/file/d/1DIvuwHsPvhEpH5r8uMeu_qdQKgjro1Us/view?usp=sharing) <i class="fas fa-chalkboard"></i>, [vidéos](https://www.youtube.com/playlist?list=PL3BpMnXQbjKf9KsBJC7ilRXOJq_d7a5i_) <i class="fab fa-youtube"></i>)
+  * <i class="fas fa-hammer"></i> Labo 3 : implémentation et détails techniques ([présentation](https://drive.google.com/file/d/1xi-nW33MVDvT673EKo8UO_y_zjXeNJhJ/view?usp=sharing) <i class="fas fa-chalkboard"></i>)
 
 * Semaine 7 : Semaine de lecture
 
