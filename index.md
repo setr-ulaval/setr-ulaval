@@ -47,7 +47,7 @@ title: "Systèmes embarqués temps réel - GIF-3004"
 * Semaine 7 : Semaine de lecture
 
 * Semaine 8 (12 mars 2021)
-  * Développement de pilote dans Linux
+  * Développement de pilote dans Linux ([présentation](https://drive.google.com/open?id=1ydwkX7f885PBkopt_1GzT0qmS2ZSYaO4) <i class="fas fa-chalkboard"></i>, [vidéos](https://www.youtube.com/playlist?list=PL3BpMnXQbjKeP9r9Hj_ITId9T1-AfUD1_) <i class="fab fa-youtube"></i>)
   * <i class="fas fa-hammer"></i> Évaluation du laboratoire 3
 
 * Semaine 9 (19 mars 2021)
