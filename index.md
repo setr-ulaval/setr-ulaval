@@ -51,19 +51,19 @@ title: "Systèmes embarqués temps réel - GIF-3004"
   * <i class="fas fa-hammer"></i> Évaluation du laboratoire 3
 
 * Semaine 9 (19 mars 2021)
-  * Communication et synchronisation
+  * Communication et synchronisation ([présentation](https://drive.google.com/open?id=1DM0fvVt6NjmCWyqXrXxU1jpWdPrD1FBx) <i class="fas fa-chalkboard"></i>, [vidéos](https://www.youtube.com/playlist?list=PL3BpMnXQbjKfaCR--QVEhBUh7RvkvtHv9) <i class="fab fa-youtube"></i>)
   * Examen
 
 * Semaine 10 (26 mars 2021)
-  * Systèmes parallèles
-  * <i class="fas fa-hammer"></i> Labo 4 : pilote de périphériques
-  * <i class="fas fa-hammer"></i> Énoncé laboratoire 4
+  * Systèmes parallèles ([présentation](https://drive.google.com/open?id=15Da5gfxIViYNWsfUo69FdPyGL3hHWz1Z) <i class="fas fa-chalkboard"></i>, [vidéos](https://www.youtube.com/playlist?list=PL3BpMnXQbjKeIe0uy5B5CJr8Dj04JSqOo) <i class="fab fa-youtube"></i>)
+  * <i class="fas fa-hammer"></i> Labo 4 : pilote de périphériques ([présentation](https://drive.google.com/open?id=17oq7UME9wqwGZapgTSLA1lQmZd4ab5ID) <i class="fas fa-chalkboard"></i>)
+  * <i class="fas fa-hammer"></i> [Énoncé laboratoire 4](https://setr-ulaval.github.io/labo4-h21/)
 
 * Semaine 11 (2 avril 2021)
-  * Théorie des files d'attente
+  * Théorie des files d'attente ([présentation](https://drive.google.com/open?id=1sQHDreBVhchDAeb1qeDOtYNZUN7IjkbD) <i class="fas fa-chalkboard"></i>, [vidéos](https://www.youtube.com/playlist?list=PL3BpMnXQbjKdc82ZXCpaSApej_9CC1W7f) <i class="fab fa-youtube"></i>)
 
 * Semaine 12 (9 avril 2021)
-  * Fiabilité et tolérance aux fautes
+  * Fiabilité et tolérance aux fautes ([présentation](https://drive.google.com/open?id=12Pjf6yVpWm8MiUteRX6fpipn4BGjKySu) <i class="fas fa-chalkboard"></i>, [vidéos](https://www.youtube.com/playlist?list=PL3BpMnXQbjKfXQDN8RhehxrpZxQYr0VxF) <i class="fab fa-youtube"></i>)
 
 * Semaine 13 (16 avril 2021)
   * Énoncé du travail long
@@ -82,9 +82,9 @@ title: "Systèmes embarqués temps réel - GIF-3004"
 Le cours comporte quatre laboratoires. La plateforme utilisée est [Raspberry Pi Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-w/) avec système d’exploitation Linux, programmé en C.
 
 * [Labo 1 : environnement de développement](https://setr-ulaval.github.io/labo1-h21/)
-* Labo 2 : système de fichiers
-* Labo 3 : multiplexeur de vidéos temps réel
-* Labo 4 : pilote de périphérique
+* [Labo 2 : système de fichiers](https://setr-ulaval.github.io/labo2-h21/)
+* [Labo 3 : multiplexeur de vidéos temps réel](https://setr-ulaval.github.io/labo3-h21/)
+* [Labo 4 : pilote de périphérique](https://setr-ulaval.github.io/labo4-h21/)
 
 ---
 
